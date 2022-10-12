@@ -12,7 +12,7 @@ The repository includes:
 - Data description: a file that includes a short description of the data structure
 - Dataset: the annotated training and testing datasets taken from the Kaggle website 
 
-- Project: a Google Colaboratory file with includes the whole project and needs a notebook enviroment to be run.
+- Project: a Google Colaboratory file which includes the whole project and needs a notebook enviroment to be run.
 
 
 ## Project file:
